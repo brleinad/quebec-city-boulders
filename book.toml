@@ -1,0 +1,6 @@
+[book]
+authors = ["Daniel Rodas Bautista"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Quebec City Boulders"
